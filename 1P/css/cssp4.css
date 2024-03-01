@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    background-color: azure;
+}
+.areaBonita {
+    border: 1px;
+    border-radius: 10%;
+    background-color: #d8dae6;
+    color: #4c4d52;
+    height: 40px;
+    width: 450px;
+}
